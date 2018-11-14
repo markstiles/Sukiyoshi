@@ -1,0 +1,5 @@
+*.user
+*.dll
+*.pdb
+BrightcoveSDK.SitecoreUtil/obj/
+BrightcoveSDK/obj/
